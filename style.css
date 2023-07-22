@@ -13,7 +13,7 @@ header {
     justify-content: space-between;
     padding: 5px 10%;
     background-color: #e11d48;
-    width: 80%;
+    width: 100%;
     position: fixed;
 }
 
@@ -325,10 +325,10 @@ textarea{
         padding: 3px 2%;
     }
     .post{
-        width: 150%;
+        width: 100%;
     }
     .sub_form{
-        width: 150%;
+        width: 100%;
     }
     form{
         width: 100%;
@@ -342,7 +342,7 @@ textarea{
         grid-template-columns: 1fr;
         align-items: center;
         justify-content: center;
-        width: 150%;
+        width: 100%;
     }
     .h11 h1{
         font-size: 3rem;
@@ -353,13 +353,13 @@ textarea{
     }
     .footer__content{
         display: grid;
-        width: 150%;
+        width: 10%;
         grid-template-columns: 1fr;
         align-items: center;
         text-align: center;
     }
     .social{
-        width: 150%;
+        width: 100%;
     }
     #kg{
         
